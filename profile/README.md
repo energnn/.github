@@ -5,7 +5,8 @@
 **Welcome to the EnerGNN organization README**
 
 
-[!EnerGNN Logo](../images/energnn_title_white.png)
+![EnerGNN Logo](../images/energnn_title_white.png#gh-dark-mode-only)
+![EnerGNN Logo](../images/energnn_title_black.png#gh-light-mode-only)
 <!--
 
 **Here are some ideas to get you started:**
