@@ -1,19 +1,25 @@
-## Hi there 👋
-
-
-
-**Welcome to the EnerGNN organization README**
-
-
 ![EnerGNN Logo](../images/energnn_title_white.png#gh-dark-mode-only)
 ![EnerGNN Logo](../images/energnn_title_black.png#gh-light-mode-only)
-<!--
 
-**Here are some ideas to get you started:**
+## 🙋‍♀️ A short introduction
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+**EnerGNN** (**Ener**gy **G**raph **N**eural **N**etwork) is a GNN framework designed for real
+life energy networks.
+
+The core package [*energnn*](https://github.com/energnn/energnn) includes:
+- A complex graph data representation (in the form of Hyper Heterogeneous Multi Graphs),
+- A library of compatible GNN models,
+- A clear interface to apply them to your own real-life problems.
+
+Companion packages are here to help you get started:
+- [*pypowsybl-to-energnn*]() helps you convert power systems files into the energnn data format,
+- [*energnn-storage*]() implements a feature store and a model registry, all displayed in a web interface,
+- [*energnn-mlflow*]() helps you track your experiments.
+
+## 👩‍💻 Useful resources
+
+Our documentation is available at https://energnn.readthedocs.io/en/latest/.
+
+## 🌈 Contribution guidelines
+
+Coming soon.
