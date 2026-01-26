@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+
+
+**Welcome to the EnerGNN organization README**
+
+
+[!EnerGNN Logo](../images/energnn_title_white.png)
 <!--
 
 **Here are some ideas to get you started:**
