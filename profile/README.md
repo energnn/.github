@@ -11,11 +11,6 @@ The core package [*energnn*](https://github.com/energnn/energnn) includes:
 - A library of compatible GNN models,
 - A clear interface to apply them to your own real-life problems.
 
-Companion packages are here to help you get started:
-- [*pypowsybl-to-energnn*]() helps you convert power systems files into the energnn data format,
-- [*energnn-storage*]() implements a feature store and a model registry, all displayed in a web interface,
-- [*energnn-mlflow*]() helps you track your experiments.
-
 ## 👩‍💻 Useful resources
 
 Our documentation is available at https://energnn.readthedocs.io/en/latest/.
