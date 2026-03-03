@@ -11,6 +11,11 @@ The core package [*energnn*](https://github.com/energnn/energnn) includes:
 - A library of compatible GNN models,
 - A clear interface to apply them to your own real-life problems.
 
+## Data Importation
+
+The companion package [_pypowsybl-to-energnn_](https://github.com/energnn/pypowsybl-to-energnn) helps you import
+power systems files through [_PyPowSyBl_](https://powsybl.readthedocs.io/projects/pypowsybl/en/stable/).
+
 ## 👩‍💻 Useful resources
 
 Our documentation is available at https://energnn.readthedocs.io/en/latest/.
