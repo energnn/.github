@@ -23,3 +23,10 @@ Our documentation is available at https://energnn.readthedocs.io/en/latest/.
 ## 🌈 Contribution guidelines
 
 Coming soon.
+
+## 🏛️​ Supporting Institutions
+
+| RTE | Université de Liège  | INRIA     |
+|-----|----------------------|-----------|
+| <img src="images/rte_white.png#gh-dark-mode-only" height="100px"/> <img src="images/rte_black.png#gh-light-mode-only" height="100px"/> | <img src="images/ulg_white.png#gh-dark-mode-only" height="100px"/> <img src="images/ulg_black.png#gh-light-mode-only" height="100px"/> | <img src="images/inria_white.png#gh-dark-mode-only" width="160px"/> <img src="images/inria_black.png#gh-light-mode-only" width="160px"/> |
+
