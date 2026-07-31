@@ -1,5 +1,5 @@
-![EnerGNN Logo](../images/energnn_title_white.png#gh-dark-mode-only)
-![EnerGNN Logo](../images/energnn_title_black.png#gh-light-mode-only)
+![EnerGNN Logo](../images/energnn-horizontal-color.png#gh-dark-mode-only)
+![EnerGNN Logo](../images/energnn-horizontal-color.png#gh-light-mode-only)
 
 ## 🙋‍♀️ A short introduction
 
@@ -13,8 +13,7 @@ The core package [*energnn*](https://github.com/energnn/energnn) includes:
 
 Companion packages are here to help you get started:
 - [*pypowsybl-to-energnn*](https://github.com/energnn/pypowsybl-to-energnn) helps you convert power systems files into the energnn data format,
-- [*energnn-storage*](https://github.com/energnn/energnn-storage) implements a feature store and a model registry, all displayed in a web interface,
-- [*energnn-mlflow*](https://github.com/energnn/energnn-mlflow) helps you track your experiments.
+- [*energnn-feature-store*](https://github.com/energnn/energnn-feature-store) implements a feature store and a model registry, all displayed in a web interface,
 
 ## 🚀 Getting started
 
