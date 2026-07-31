@@ -1,5 +1,5 @@
-![EnerGNN Logo](../images/energnn_title_white.png#gh-dark-mode-only)
-![EnerGNN Logo](../images/energnn_title_black.png#gh-light-mode-only)
+![EnerGNN Logo](../images/energnn-horizontal-color.png#gh-dark-mode-only)
+![EnerGNN Logo](../images/energnn-horizontal-color.png#gh-light-mode-only)
 
 ## 🙋‍♀️ A short introduction
 
