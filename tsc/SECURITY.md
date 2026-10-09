@@ -12,9 +12,8 @@ Please do not disclose security vulnerabilities publicly until they have been as
 
 Please report vulnerabilities by contacting the maintainers through one of the following channels:
 
-- Security email: security@energnn.org
-- Maintainer email: <maintainer-email>
-- LF Energy project contacts: <project-contact>
+- Maintainers list : [COMMITTERS.csv](COMMITTERS.csv)
+- LF Energy project contacts: balthazar.donon@rte-france.com
 
 When reporting a vulnerability, please include:
 
